@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /project
+//Host: https://kevinflor.es
+Host: https://samuelanari.uk

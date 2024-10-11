@@ -1,0 +1,114 @@
+[
+  {
+    "name": "HTML",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "CSS",
+    "url": "https://en.wikipedia.org/wiki/CSS"
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://en.wikipedia.org/wiki/JavaScript"
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://www.typescriptlang.org/"
+  },
+  {
+    "name": "C-sharp",
+    "url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "name": "JQuery",
+    "url": "https://jquery.com/"
+  },
+  {
+    "name": "SASS",
+    "url": "https://sass-lang.com/"
+  },
+  {
+    "name": "Node JS",
+    "url": "https://nodejs.org/en/about"
+  },
+  {
+    "name": ".NET Core",
+    "url": "https://en.wikipedia.org/wiki/ASP.NET_Core"
+  },
+  {
+    "name": "Angular",
+    "url": "https://angular.dev/"
+  },
+  {
+    "name": "React",
+    "url": "https://react.dev/"
+  },
+  {
+    "name": "Ionic",
+    "url": "https://ionic.io/"
+  },
+  {
+    "name": "Bootstrap",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com/"
+  },
+  {
+    "name": "Express JS",
+    "url": "https://expressjs.com/"
+  },
+  {
+    "name": "Git",
+    "url": "https://git-scm.com/"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://www.mysql.com/"
+  },
+  {
+    "name": "SQLite",
+    "url": "https://www.sqlite.org/index.html"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://www.mongodb.com/"
+  },
+  {
+    "name": "Capacitor",
+    "url": "https://capacitorjs.com/"
+  },
+  {
+    "name": "MicrosoftExcel",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "PowerBI",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "Tableau",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "Python",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "Docker",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "Pytorch",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "Microsoft Azure",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  },
+  {
+    "name": "AWS",
+    "url": "https://en.wikipedia.org/wiki/HTML"
+  }
+]
